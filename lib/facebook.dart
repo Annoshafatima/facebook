@@ -27,7 +27,7 @@ class FaceBook extends  StatelessWidget {
           SizedBox(height: 10,),
           Row(children:[
             CircleAvatar(backgroundImage:
-            AssetImage('lib/assets/image90.jpg'),
+            AssetImage('lib/assets/image1.jpg'),
               backgroundColor:Colors.grey,
               radius: 30,
 
@@ -60,7 +60,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.yellow,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image20.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/d.jpg'),fit: BoxFit.cover),
 
 
 
@@ -73,7 +73,7 @@ class FaceBook extends  StatelessWidget {
                       children: [
                         CircleAvatar(
                           backgroundImage:
-                          AssetImage('lib/assets/image20.jpg'),
+                          AssetImage('lib/assets/image1.jpg'),
                         ),
                         Text('AnnoshaFatima')
                       ],
@@ -90,7 +90,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.green,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image5.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/image2.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -101,7 +101,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image5.jpg'),
+                        AssetImage('lib/assets/images.jpg'),
 
                         ),
                         Text('LaibaGul'),
@@ -119,7 +119,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.brown,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image17.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/image3.jpg'),fit: BoxFit.cover),
 
                   ),
                   child: Padding(
@@ -129,7 +129,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image17.jpg'),
+                        AssetImage('lib/assets/images4.jpg'),
 
                         ),
                         Text('Rabia gul'),
@@ -145,7 +145,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.pink,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image24.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/e.jpg'),fit: BoxFit.cover),
 
 
 
@@ -158,7 +158,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image24.jpg'),
+                        AssetImage('lib/assets/images.jpg'),
 
                         ),
                         Text('Mahnoor')
@@ -174,7 +174,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.orange,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image18.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/d.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -185,7 +185,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image18.jpg'),
+                        AssetImage('lib/assets/c.jpg'),
 
                         ),
                         Text('AbihaFatima')
@@ -202,7 +202,7 @@ class FaceBook extends  StatelessWidget {
                     borderRadius:BorderRadius.circular(32),
 
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image30.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/images.jpg'),fit: BoxFit.cover),
 
                   ),
                   child: Padding(
@@ -212,7 +212,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image30.jpg'),
+                        AssetImage('lib/assets/e.jpg'),
 
                         ),
                         Text('Haram fatima')
@@ -228,7 +228,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.pink,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image19.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/w.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -239,7 +239,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image19.jpg'),
+                        AssetImage('lib/assets/d.jpg'),
 
                         ),
                         Text('Fizza batool')
@@ -255,7 +255,8 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.pink,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image24.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/z.jpg'),
+                        fit: BoxFit.cover),
 
 
                   ),
@@ -266,7 +267,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image24.jpg'),
+                        AssetImage('lib/assets/images.jpg'),
 
                         ),
                         Text('Tujza batool')
@@ -282,7 +283,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.blue,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image28.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/b.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -293,7 +294,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image28.jpg'),
+                        AssetImage('lib/assets/a.jpg'),
 
                         ),
                         Text('Wajeha fatima')
@@ -309,7 +310,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.green,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image9.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/images.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -320,7 +321,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image9.jpg'),
+                        AssetImage('lib/assets/image5.jpg'),
 
                         ),
                         Text('Muhammad Aoun')
@@ -336,7 +337,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.lime,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image23.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/image5.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -347,7 +348,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image23.jpg'),
+                        AssetImage('lib/assets/a.jpg'),
 
                         ),
                         Text('Mirha')
@@ -363,7 +364,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.lightGreen,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image9.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/b.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -374,7 +375,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image9.jpg'),
+                        AssetImage('lib/assets/image6.jpg'),
 
                         ),
                         Text('Ali raza')
@@ -390,7 +391,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.cyan,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image70.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/image6.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -401,7 +402,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image70.jpg'),
+                        AssetImage('lib/assets/image7.jpg'),
 
                         ),
                         Text('Abdul Mahad')
@@ -417,7 +418,7 @@ class FaceBook extends  StatelessWidget {
                   decoration: BoxDecoration(color: Colors.purple,
                     borderRadius:BorderRadius.circular(32),
                     image:
-                    DecorationImage(image: AssetImage('lib/assets/image80.jpg'),fit: BoxFit.cover),
+                    DecorationImage(image: AssetImage('lib/assets/image7.jpg'),fit: BoxFit.cover),
 
 
                   ),
@@ -428,7 +429,7 @@ class FaceBook extends  StatelessWidget {
                       crossAxisAlignment:CrossAxisAlignment.start,
                       children: [
                         CircleAvatar(backgroundImage:
-                        AssetImage('lib/assets/image80.jpg'),
+                        AssetImage('lib/assets/z.jpg'),
                         ),
                         Text('Anam'),
                       ],
